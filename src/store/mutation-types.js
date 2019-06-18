@@ -1,0 +1,6 @@
+export const SET_FIELDS_LIST = 'SET_FIELDS_LIST'
+export const SET_SELL_LIST = 'SET_SELL_LIST'
+export const SET_FOLLOW_LIST = 'SET_FOLLOW_LIST'
+export const SET_SEARCH_HISTORY = 'SET_SEARCH_HISTORY'
+export const SET_SYSTEM = 'SET_SYSTEM'
+export const SET_INTEREST = 'SET_INTEREST'
